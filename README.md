@@ -10,6 +10,6 @@ this program can:
 this program uses:
 
 - python as programming language
-- Tk as GUI
+- PyQt4 as GUI
 - SimpleDB
 
